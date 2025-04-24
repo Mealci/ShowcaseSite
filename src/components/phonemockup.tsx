@@ -39,7 +39,6 @@ function PhoneMockup() {
           position={[0, 0, 0.3]}
           rotation={[0, 0, 0]}
           distanceFactor={7} // Ajustement précis de la taille
-          ref={screenRef}
           className="w-[220px] h-[460px]"
         >
           <div className="relative w-full h-full overflow-hidden rounded-[30px] shadow-xl">
